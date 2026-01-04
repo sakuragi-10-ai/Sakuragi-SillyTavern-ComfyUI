@@ -1,0 +1,183 @@
+{
+  "10": {
+    "inputs": {
+      "seed": "%seed%",
+      "steps": "%steps%",
+      "cfg": "%scale%",
+      "sampler_name": "%sampler%",
+      "scheduler": "%scheduler%",
+      "denoise": 1,
+      "model": [
+        "11",
+        0
+      ],
+      "positive": [
+        "17",
+        0
+      ],
+      "negative": [
+        "18",
+        0
+      ],
+      "latent_image": [
+        "23",
+        0
+      ]
+    },
+    "class_type": "KSampler",
+    "_meta": {
+      "title": "KSampler"
+    }
+  },
+  "11": {
+    "inputs": {
+      "ckpt_name": "%model%"
+    },
+    "class_type": "CheckpointLoaderSimple",
+    "_meta": {
+      "title": "Load Checkpoint"
+    }
+  },
+  "17": {
+    "inputs": {
+      "text": [
+        "28",
+        0
+      ],
+      "clip": [
+        "11",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "18": {
+    "inputs": {
+      "text": "%negative_prompt%",
+      "clip": [
+        "11",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "19": {
+    "inputs": {
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "11",
+        2
+      ]
+    },
+    "class_type": "VAEDecode",
+    "_meta": {
+      "title": "VAE Decode"
+    }
+  },
+  "22": {
+    "inputs": {
+      "enabled": true,
+      "swap_model": "inswapper_128.onnx",
+      "facedetection": "retinaface_resnet50",
+      "face_restore_model": "GFPGANv1.4.pth",
+      "face_restore_visibility": 1,
+      "codeformer_weight": 0.5,
+      "detect_gender_input": "no",
+      "detect_gender_source": "no",
+      "input_faces_index": "0",
+      "source_faces_index": "0",
+      "console_log_level": 1,
+      "input_image": [
+        "19",
+        0
+      ],
+      "source_image": [
+        "31",
+        0
+      ]
+    },
+    "class_type": "ReActorFaceSwap",
+    "_meta": {
+      "title": "ReActor 🌌 Fast Face Swap"
+    }
+  },
+  "23": {
+    "inputs": {
+      "width": 768,
+      "height": 1024,
+      "batch_size": 1
+    },
+    "class_type": "EmptyLatentImage",
+    "_meta": {
+      "title": "Empty Latent Image"
+    }
+  },
+  "25": {
+    "inputs": {
+      "upscale_method": "nearest-exact",
+      "scale_by": 2,
+      "image": [
+        "22",
+        0
+      ]
+    },
+    "class_type": "ImageScaleBy",
+    "_meta": {
+      "title": "Upscale Image By"
+    }
+  },
+  "28": {
+    "inputs": {
+      "string_a": "score_9, score_8_up, score_7_up, source_photo, ",
+      "string_b": [
+        "29",
+        0
+      ],
+      "delimiter": "BREAK"
+    },
+    "class_type": "StringConcatenate",
+    "_meta": {
+      "title": "Concatenate"
+    }
+  },
+  "29": {
+    "inputs": {
+      "value": "%prompt%"
+    },
+    "class_type": "PrimitiveString",
+    "_meta": {
+      "title": "String"
+    }
+  },
+  "30": {
+    "inputs": {
+      "filename_prefix": "SillyTavern",
+      "images": [
+        "25",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "Save Image"
+    }
+  },
+  "31": {
+    "inputs": {
+      "image": "%char_avatar%"
+    },
+    "class_type": "ETN_LoadImageBase64",
+    "_meta": {
+      "title": "Load Image (Base64)"
+    }
+  }
+}
