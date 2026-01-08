@@ -34,7 +34,14 @@ This is a ComfyUI workflow to generate 28 different expressions, based on this [
 2. Import it into ComfyUI
 3. Download the various custom node packages (sorry I forgot which ones are required here, but ComfyUI should tell you)
 4. Update the following boxes; others are optional
+   * Load Image (Sprite) - this is the template for create the sprite, only the face will change
+   * Load Image (Face) - this is the face that the new expressions will be based on. Can be the same file as the above 
    * Character Name - must match the name in SillyTavern
    * Load Checkpoint - Both SDXL and Pony should work. Pony is usually better at making the expressions, but SDXL is more realistic.  SDXL Lightning works as well, but only for certain expressions.
 6. Run it! As many times as you like, outputted file is already formatted to work.
 7. SillyTavern has several methods to upload, but copying the outputted folder (folder name = character name) into `</SillyTavern Folder>/data/default-user/characters` is the fastest way
+
+*Tips*
+* If the expressions look too exaggerated or cartoonish, try turning down the weights in IPAdapter FaceID node
+* If the face doesn't look similar enough, try choosing a different image for Load Image (Face) that better represent what you want to create
+* If you are generating sprits for a well-known character, try adding the name or description into the refiner prompt (within Character Params group nodes)
