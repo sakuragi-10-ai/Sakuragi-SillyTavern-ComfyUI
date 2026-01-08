@@ -25,3 +25,13 @@ This is a ComfyUI workflow for SillyTavern to generate scenes and swap the face 
    * Scheduler - karras
    * Common prompt prefix - {prompt}
    * Negative common prompt prefix - score_6,score_5,score_4, score_1, score_2, score_3, source_anime, source_cartoon, rating_explicit, greyscale, text, watermark, lowres, jpeg-artifacts, strabism, heterochromia, fused elements, low quality, poor quality, bad eyes, bad anatomy, unnatural teeth, normal quality, censored, poorly drawn eyes, poorly rendered eyes, 3D
+
+**ExpressionMaker.json**
+This is a ComfyUI workflow to generate 28 different expressions, based on this [reddit post](https://www.reddit.com/r/SillyTavernAI/comments/1kb0s7n/sillytavern_expressions_workflow_v2_for_comfyui/).  I added several QoL changes as well as modified parts of the workflow so it works better for photorealistic characters.
+
+*Instructions*
+1. Download ExpressionMaker.json
+2. Place it inside `/<SillyTavern Folder>/data/default-user/user/workflows`
+3. Download the various custom node packages (sorry I forgot which ones are required here, but ComfyUI should tell you)
+4. Update "Character Name" to match the name in SillyTavern
+5. Run it!
