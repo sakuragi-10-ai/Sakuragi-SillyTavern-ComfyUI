@@ -745,52 +745,6 @@
       ]
     },
     {
-      "id": 69,
-      "type": "StringConcatenate",
-      "pos": [
-        2659.4412542377454,
-        -2945.5532377579752
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 50,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 749
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            107
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "surprise-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 70,
       "type": "Image Saver Simple",
       "pos": [
@@ -1050,52 +1004,6 @@
         20,
         false,
         false
-      ]
-    },
-    {
-      "id": 74,
-      "type": "StringConcatenate",
-      "pos": [
-        3149.2791868732984,
-        -2942.7935874332693
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 49,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 748
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            121
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
       ]
     },
     {
@@ -1466,52 +1374,6 @@
       ]
     },
     {
-      "id": 83,
-      "type": "StringConcatenate",
-      "pos": [
-        3647.301034319306,
-        -2940.9573365500305
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 52,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 751
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            137
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 84,
       "type": "Image Saver Simple",
       "pos": [
@@ -1774,52 +1636,6 @@
       "widgets_values": []
     },
     {
-      "id": 88,
-      "type": "StringConcatenate",
-      "pos": [
-        2175.5390924755156,
-        -2361.0347832825696
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 53,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 752
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            151
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "joy-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 90,
       "type": "FaceDetailerPipe",
       "pos": [
@@ -1977,52 +1793,6 @@
       ]
     },
     {
-      "id": 91,
-      "type": "StringConcatenate",
-      "pos": [
-        2660.420430956985,
-        -2353.7797570190237
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 54,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 753
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            175
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "surprise-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 92,
       "type": "Image Saver Simple",
       "pos": [
@@ -2126,52 +1896,6 @@
         "Node name for S&R": "PreviewImage"
       },
       "widgets_values": []
-    },
-    {
-      "id": 96,
-      "type": "StringConcatenate",
-      "pos": [
-        3150.2583635925384,
-        -2351.0201066943177
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 55,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 754
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            189
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
-      ]
     },
     {
       "id": 97,
@@ -2541,52 +2265,6 @@
       ]
     },
     {
-      "id": 103,
-      "type": "StringConcatenate",
-      "pos": [
-        3648.2802110385455,
-        -2349.183855811079
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 56,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 755
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            203
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 104,
       "type": "Image Saver Simple",
       "pos": [
@@ -2849,52 +2527,6 @@
       "widgets_values": []
     },
     {
-      "id": 108,
-      "type": "StringConcatenate",
-      "pos": [
-        2169.9242390301924,
-        -1763.2375013725662
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 57,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 756
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            207
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "joy-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 110,
       "type": "FaceDetailerPipe",
       "pos": [
@@ -3049,52 +2681,6 @@
         20,
         false,
         false
-      ]
-    },
-    {
-      "id": 111,
-      "type": "StringConcatenate",
-      "pos": [
-        2654.805577511662,
-        -1755.9824751090202
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 58,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 757
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            231
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "surprise-",
-        "",
-        ""
       ]
     },
     {
@@ -3357,52 +2943,6 @@
         20,
         false,
         false
-      ]
-    },
-    {
-      "id": 116,
-      "type": "StringConcatenate",
-      "pos": [
-        3144.6435101472152,
-        -1753.2228247843143
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 59,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 758
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            245
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
       ]
     },
     {
@@ -3773,52 +3313,6 @@
       ]
     },
     {
-      "id": 123,
-      "type": "StringConcatenate",
-      "pos": [
-        3642.6653575932223,
-        -1751.3865739010755
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 60,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 759
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            259
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 124,
       "type": "Image Saver Simple",
       "pos": [
@@ -4081,52 +3575,6 @@
       "widgets_values": []
     },
     {
-      "id": 128,
-      "type": "StringConcatenate",
-      "pos": [
-        2169.924239030191,
-        -1150.9775013725687
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 61,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 760
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            263
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "joy-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 130,
       "type": "FaceDetailerPipe",
       "pos": [
@@ -4281,52 +3729,6 @@
         20,
         false,
         false
-      ]
-    },
-    {
-      "id": 131,
-      "type": "StringConcatenate",
-      "pos": [
-        2654.8055775116613,
-        -1143.7224751090228
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 62,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 761
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            287
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "surprise-",
-        "",
-        ""
       ]
     },
     {
@@ -4589,52 +3991,6 @@
         20,
         false,
         false
-      ]
-    },
-    {
-      "id": 136,
-      "type": "StringConcatenate",
-      "pos": [
-        3144.643510147214,
-        -1140.9628247843168
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 63,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 762
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            301
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
       ]
     },
     {
@@ -5005,52 +4361,6 @@
       ]
     },
     {
-      "id": 143,
-      "type": "StringConcatenate",
-      "pos": [
-        3642.6653575932205,
-        -1139.126573901078
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 64,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 763
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            315
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 144,
       "type": "Image Saver Simple",
       "pos": [
@@ -5313,52 +4623,6 @@
       "widgets_values": []
     },
     {
-      "id": 148,
-      "type": "StringConcatenate",
-      "pos": [
-        2167.9565622625187,
-        -571.2172993523652
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 65,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 764
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            319
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "joy-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 150,
       "type": "FaceDetailerPipe",
       "pos": [
@@ -5513,52 +4777,6 @@
         20,
         false,
         false
-      ]
-    },
-    {
-      "id": 151,
-      "type": "StringConcatenate",
-      "pos": [
-        2652.837900743988,
-        -563.9622730888193
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 66,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 765
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            343
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "surprise-",
-        "",
-        ""
       ]
     },
     {
@@ -5821,52 +5039,6 @@
         20,
         false,
         false
-      ]
-    },
-    {
-      "id": 156,
-      "type": "StringConcatenate",
-      "pos": [
-        3142.6758333795415,
-        -561.2026227641134
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 67,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 766
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            357
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
       ]
     },
     {
@@ -6237,52 +5409,6 @@
       ]
     },
     {
-      "id": 163,
-      "type": "StringConcatenate",
-      "pos": [
-        3640.697680825549,
-        -559.3663718808746
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 68,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 767
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            371
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 164,
       "type": "Image Saver Simple",
       "pos": [
@@ -6545,52 +5671,6 @@
       "widgets_values": []
     },
     {
-      "id": 168,
-      "type": "StringConcatenate",
-      "pos": [
-        2162.041006706961,
-        11.464922869855076
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 69,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 768
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            375
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "joy-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 170,
       "type": "FaceDetailerPipe",
       "pos": [
@@ -6745,52 +5825,6 @@
         20,
         false,
         false
-      ]
-    },
-    {
-      "id": 171,
-      "type": "StringConcatenate",
-      "pos": [
-        2646.9223451884313,
-        18.71994913340097
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 70,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 769
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            399
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "surprise-",
-        "",
-        ""
       ]
     },
     {
@@ -7053,52 +6087,6 @@
         20,
         false,
         false
-      ]
-    },
-    {
-      "id": 176,
-      "type": "StringConcatenate",
-      "pos": [
-        3136.7602778239834,
-        21.479599458106918
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 71,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 770
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            413
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
       ]
     },
     {
@@ -7469,52 +6457,6 @@
       ]
     },
     {
-      "id": 183,
-      "type": "StringConcatenate",
-      "pos": [
-        3634.782125269992,
-        23.315850341345683
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 72,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 771
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            427
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 184,
       "type": "Image Saver Simple",
       "pos": [
@@ -7777,52 +6719,6 @@
       "widgets_values": []
     },
     {
-      "id": 188,
-      "type": "StringConcatenate",
-      "pos": [
-        2159.083228929186,
-        600.0627006476305
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 73,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 772
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            431
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "joy-",
-        "",
-        ""
-      ]
-    },
-    {
       "id": 190,
       "type": "FaceDetailerPipe",
       "pos": [
@@ -7977,52 +6873,6 @@
         20,
         false,
         false
-      ]
-    },
-    {
-      "id": 191,
-      "type": "StringConcatenate",
-      "pos": [
-        2643.9645674106555,
-        607.3177269111765
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 74,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 773
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            455
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "surprise-",
-        "",
-        ""
       ]
     },
     {
@@ -8285,52 +7135,6 @@
         20,
         false,
         false
-      ]
-    },
-    {
-      "id": 196,
-      "type": "StringConcatenate",
-      "pos": [
-        3133.802500046209,
-        610.0773772358824
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 75,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 774
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            469
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
       ]
     },
     {
@@ -8698,295 +7502,6 @@
         0,
         "%Y-%m-%d-%H%M%S",
         true
-      ]
-    },
-    {
-      "id": 203,
-      "type": "StringConcatenate",
-      "pos": [
-        3631.8243474922156,
-        611.9136281191212
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 76,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 775
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            483
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "fear-",
-        "",
-        ""
-      ]
-    },
-    {
-      "id": 56,
-      "type": "StringConcatenate",
-      "pos": [
-        2174.5599157562756,
-        -2952.808264021521
-      ],
-      "size": [
-        210,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 51,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string_b",
-          "type": "STRING",
-          "widget": {
-            "name": "string_b"
-          },
-          "link": 750
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            96
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "StringConcatenate"
-      },
-      "widgets_values": [
-        "joy-",
-        "",
-        ""
-      ]
-    },
-    {
-      "id": 53,
-      "type": "Image Saver Simple",
-      "pos": [
-        2141.4441118597806,
-        -2900.1535549504824
-      ],
-      "size": [
-        236.78334045410156,
-        695.4410369662041
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 105,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 95
-        },
-        {
-          "name": "metadata",
-          "shape": 7,
-          "type": "METADATA",
-          "link": null
-        },
-        {
-          "name": "filename",
-          "type": "STRING",
-          "widget": {
-            "name": "filename"
-          },
-          "link": 96
-        },
-        {
-          "name": "path",
-          "type": "STRING",
-          "widget": {
-            "name": "path"
-          },
-          "link": 720
-        }
-      ],
-      "outputs": [
-        {
-          "name": "hashes",
-          "type": "STRING",
-          "links": null
-        },
-        {
-          "name": "a1111_params",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-image-saver",
-        "ver": "1.20.0",
-        "Node name for S&R": "Image Saver Simple"
-      },
-      "widgets_values": [
-        "joy",
-        "",
-        "png",
-        true,
-        100,
-        false,
-        true,
-        false,
-        0,
-        "%Y-%m-%d-%H%M%S",
-        true
-      ]
-    },
-    {
-      "id": 54,
-      "type": "EditDetailerPipeSDXL",
-      "pos": [
-        1938.1778061386667,
-        -2952.8082640215207
-      ],
-      "size": [
-        400,
-        396
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 21,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "detailer_pipe",
-          "type": "DETAILER_PIPE",
-          "link": 496
-        },
-        {
-          "name": "model",
-          "shape": 7,
-          "type": "MODEL",
-          "link": null
-        },
-        {
-          "name": "clip",
-          "shape": 7,
-          "type": "CLIP",
-          "link": null
-        },
-        {
-          "name": "vae",
-          "shape": 7,
-          "type": "VAE",
-          "link": null
-        },
-        {
-          "name": "positive",
-          "shape": 7,
-          "type": "CONDITIONING",
-          "link": null
-        },
-        {
-          "name": "negative",
-          "shape": 7,
-          "type": "CONDITIONING",
-          "link": null
-        },
-        {
-          "name": "refiner_model",
-          "shape": 7,
-          "type": "MODEL",
-          "link": null
-        },
-        {
-          "name": "refiner_clip",
-          "shape": 7,
-          "type": "CLIP",
-          "link": null
-        },
-        {
-          "name": "refiner_positive",
-          "shape": 7,
-          "type": "CONDITIONING",
-          "link": null
-        },
-        {
-          "name": "refiner_negative",
-          "shape": 7,
-          "type": "CONDITIONING",
-          "link": null
-        },
-        {
-          "name": "bbox_detector",
-          "shape": 7,
-          "type": "BBOX_DETECTOR",
-          "link": null
-        },
-        {
-          "name": "sam_model",
-          "shape": 7,
-          "type": "SAM_MODEL",
-          "link": null
-        },
-        {
-          "name": "segm_detector",
-          "shape": 7,
-          "type": "SEGM_DETECTOR",
-          "link": null
-        },
-        {
-          "name": "detailer_hook",
-          "shape": 7,
-          "type": "DETAILER_HOOK",
-          "link": null
-        }
-      ],
-      "outputs": [
-        {
-          "name": "detailer_pipe",
-          "type": "DETAILER_PIPE",
-          "links": [
-            94
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-impact-pack",
-        "ver": "8.28.2",
-        "Node name for S&R": "EditDetailerPipeSDXL"
-      },
-      "widgets_values": [
-        "happy, wide smile, bright eyes, joyful expression, (blush:1.0), parted lips",
-        "Select the LoRA to add to the text",
-        "Select Wildcard 🟢 Full Cache"
       ]
     },
     {
@@ -9711,127 +8226,6 @@
       },
       "widgets_values": [
         "cheerful expression, smiling, open mouth, raised eyebrows, upturned bright eyes, slight blush, playful smile",
-        "Select the LoRA to add to the text",
-        "Select Wildcard 🟢 Full Cache"
-      ]
-    },
-    {
-      "id": 107,
-      "type": "EditDetailerPipeSDXL",
-      "pos": [
-        1933.5421294125829,
-        -1763.2375013725657
-      ],
-      "size": [
-        400,
-        396
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 29,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "detailer_pipe",
-          "type": "DETAILER_PIPE",
-          "link": 504
-        },
-        {
-          "name": "model",
-          "shape": 7,
-          "type": "MODEL",
-          "link": null
-        },
-        {
-          "name": "clip",
-          "shape": 7,
-          "type": "CLIP",
-          "link": null
-        },
-        {
-          "name": "vae",
-          "shape": 7,
-          "type": "VAE",
-          "link": null
-        },
-        {
-          "name": "positive",
-          "shape": 7,
-          "type": "CONDITIONING",
-          "link": null
-        },
-        {
-          "name": "negative",
-          "shape": 7,
-          "type": "CONDITIONING",
-          "link": null
-        },
-        {
-          "name": "refiner_model",
-          "shape": 7,
-          "type": "MODEL",
-          "link": null
-        },
-        {
-          "name": "refiner_clip",
-          "shape": 7,
-          "type": "CLIP",
-          "link": null
-        },
-        {
-          "name": "refiner_positive",
-          "shape": 7,
-          "type": "CONDITIONING",
-          "link": null
-        },
-        {
-          "name": "refiner_negative",
-          "shape": 7,
-          "type": "CONDITIONING",
-          "link": null
-        },
-        {
-          "name": "bbox_detector",
-          "shape": 7,
-          "type": "BBOX_DETECTOR",
-          "link": null
-        },
-        {
-          "name": "sam_model",
-          "shape": 7,
-          "type": "SAM_MODEL",
-          "link": null
-        },
-        {
-          "name": "segm_detector",
-          "shape": 7,
-          "type": "SEGM_DETECTOR",
-          "link": null
-        },
-        {
-          "name": "detailer_hook",
-          "shape": 7,
-          "type": "DETAILER_HOOK",
-          "link": null
-        }
-      ],
-      "outputs": [
-        {
-          "name": "detailer_pipe",
-          "type": "DETAILER_PIPE",
-          "links": [
-            210
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-impact-pack",
-        "ver": "8.28.2",
-        "Node name for S&R": "EditDetailerPipeSDXL"
-      },
-      "widgets_values": [
-        "(nervous:1.3), shaky smile, wide anxious eyes, biting lip, hesitant expression",
         "Select the LoRA to add to the text",
         "Select Wildcard 🟢 Full Cache"
       ]
@@ -11850,54 +10244,6 @@
       ]
     },
     {
-      "id": 21,
-      "type": "CheckpointLoaderSimple",
-      "pos": [
-        1.0951266411787266,
-        -1661.890723457442
-      ],
-      "size": [
-        270,
-        98
-      ],
-      "flags": {},
-      "order": 7,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            6
-          ]
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            776,
-            777
-          ]
-        },
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            2
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.7.0",
-        "Node name for S&R": "CheckpointLoaderSimple"
-      },
-      "widgets_values": [
-        "iniverseMixSFWNSFW_xlV75Real.safetensors"
-      ]
-    },
-    {
       "id": 3,
       "type": "SAMLoader",
       "pos": [
@@ -11909,7 +10255,7 @@
         82
       ],
       "flags": {},
-      "order": 8,
+      "order": 7,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -11943,7 +10289,7 @@
         78
       ],
       "flags": {},
-      "order": 9,
+      "order": 8,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -11981,7 +10327,7 @@
         78
       ],
       "flags": {},
-      "order": 10,
+      "order": 9,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -12807,7 +11153,7 @@
         63.51930064941462
       ],
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -12892,7 +11238,7 @@
         82
       ],
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -13311,6 +11657,1660 @@
         "(flustered:1.5), heavy blush, averted eyes, nervous smile, shy expression",
         "Select the LoRA to add to the text",
         "Select Wildcard 🟢 Full Cache"
+      ]
+    },
+    {
+      "id": 54,
+      "type": "EditDetailerPipeSDXL",
+      "pos": [
+        1938.1778061386667,
+        -2952.8082640215207
+      ],
+      "size": [
+        400,
+        396
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 21,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "detailer_pipe",
+          "type": "DETAILER_PIPE",
+          "link": 496
+        },
+        {
+          "name": "model",
+          "shape": 7,
+          "type": "MODEL",
+          "link": null
+        },
+        {
+          "name": "clip",
+          "shape": 7,
+          "type": "CLIP",
+          "link": null
+        },
+        {
+          "name": "vae",
+          "shape": 7,
+          "type": "VAE",
+          "link": null
+        },
+        {
+          "name": "positive",
+          "shape": 7,
+          "type": "CONDITIONING",
+          "link": null
+        },
+        {
+          "name": "negative",
+          "shape": 7,
+          "type": "CONDITIONING",
+          "link": null
+        },
+        {
+          "name": "refiner_model",
+          "shape": 7,
+          "type": "MODEL",
+          "link": null
+        },
+        {
+          "name": "refiner_clip",
+          "shape": 7,
+          "type": "CLIP",
+          "link": null
+        },
+        {
+          "name": "refiner_positive",
+          "shape": 7,
+          "type": "CONDITIONING",
+          "link": null
+        },
+        {
+          "name": "refiner_negative",
+          "shape": 7,
+          "type": "CONDITIONING",
+          "link": null
+        },
+        {
+          "name": "bbox_detector",
+          "shape": 7,
+          "type": "BBOX_DETECTOR",
+          "link": null
+        },
+        {
+          "name": "sam_model",
+          "shape": 7,
+          "type": "SAM_MODEL",
+          "link": null
+        },
+        {
+          "name": "segm_detector",
+          "shape": 7,
+          "type": "SEGM_DETECTOR",
+          "link": null
+        },
+        {
+          "name": "detailer_hook",
+          "shape": 7,
+          "type": "DETAILER_HOOK",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "detailer_pipe",
+          "type": "DETAILER_PIPE",
+          "links": [
+            94
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-impact-pack",
+        "ver": "8.28.2",
+        "Node name for S&R": "EditDetailerPipeSDXL"
+      },
+      "widgets_values": [
+        "happy, wide smile, bright eyes, joyful expression, (blush:1.0), parted lips",
+        "Select the LoRA to add to the text",
+        "Select Wildcard 🟢 Full Cache"
+      ]
+    },
+    {
+      "id": 56,
+      "type": "StringConcatenate",
+      "pos": [
+        2174.5599157562756,
+        -2952.808264021521
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 51,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 750
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            96
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "joy-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 53,
+      "type": "Image Saver Simple",
+      "pos": [
+        2141.4441118597806,
+        -2900.1535549504824
+      ],
+      "size": [
+        236.78334045410156,
+        695.4410369662041
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 105,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 95
+        },
+        {
+          "name": "metadata",
+          "shape": 7,
+          "type": "METADATA",
+          "link": null
+        },
+        {
+          "name": "filename",
+          "type": "STRING",
+          "widget": {
+            "name": "filename"
+          },
+          "link": 96
+        },
+        {
+          "name": "path",
+          "type": "STRING",
+          "widget": {
+            "name": "path"
+          },
+          "link": 720
+        }
+      ],
+      "outputs": [
+        {
+          "name": "hashes",
+          "type": "STRING",
+          "links": null
+        },
+        {
+          "name": "a1111_params",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-image-saver",
+        "ver": "1.20.0",
+        "Node name for S&R": "Image Saver Simple"
+      },
+      "widgets_values": [
+        "joy",
+        "",
+        "png",
+        true,
+        100,
+        false,
+        true,
+        false,
+        0,
+        "%Y-%m-%d-%H%M%S",
+        true
+      ]
+    },
+    {
+      "id": 69,
+      "type": "StringConcatenate",
+      "pos": [
+        2659.4412542377454,
+        -2945.5532377579752
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 50,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 749
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            107
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "surprise-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 74,
+      "type": "StringConcatenate",
+      "pos": [
+        3149.2791868732984,
+        -2942.7935874332693
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 49,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 748
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            121
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "fear-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 83,
+      "type": "StringConcatenate",
+      "pos": [
+        3647.301034319306,
+        -2940.9573365500305
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 52,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 751
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            137
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "admiration-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 88,
+      "type": "StringConcatenate",
+      "pos": [
+        2175.5390924755156,
+        -2361.0347832825696
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 53,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 752
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            151
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "sadness-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 91,
+      "type": "StringConcatenate",
+      "pos": [
+        2660.420430956985,
+        -2353.7797570190237
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 54,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 753
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            175
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "love-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 96,
+      "type": "StringConcatenate",
+      "pos": [
+        3150.2583635925384,
+        -2351.0201066943177
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 55,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 754
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            189
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "embarrassment-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 103,
+      "type": "StringConcatenate",
+      "pos": [
+        3648.2802110385455,
+        -2349.183855811079
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 56,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 755
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            203
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "amusement-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 107,
+      "type": "EditDetailerPipeSDXL",
+      "pos": [
+        1933.5421294125829,
+        -1763.2375013725657
+      ],
+      "size": [
+        400,
+        396
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 29,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "detailer_pipe",
+          "type": "DETAILER_PIPE",
+          "link": 504
+        },
+        {
+          "name": "model",
+          "shape": 7,
+          "type": "MODEL",
+          "link": null
+        },
+        {
+          "name": "clip",
+          "shape": 7,
+          "type": "CLIP",
+          "link": null
+        },
+        {
+          "name": "vae",
+          "shape": 7,
+          "type": "VAE",
+          "link": null
+        },
+        {
+          "name": "positive",
+          "shape": 7,
+          "type": "CONDITIONING",
+          "link": null
+        },
+        {
+          "name": "negative",
+          "shape": 7,
+          "type": "CONDITIONING",
+          "link": null
+        },
+        {
+          "name": "refiner_model",
+          "shape": 7,
+          "type": "MODEL",
+          "link": null
+        },
+        {
+          "name": "refiner_clip",
+          "shape": 7,
+          "type": "CLIP",
+          "link": null
+        },
+        {
+          "name": "refiner_positive",
+          "shape": 7,
+          "type": "CONDITIONING",
+          "link": null
+        },
+        {
+          "name": "refiner_negative",
+          "shape": 7,
+          "type": "CONDITIONING",
+          "link": null
+        },
+        {
+          "name": "bbox_detector",
+          "shape": 7,
+          "type": "BBOX_DETECTOR",
+          "link": null
+        },
+        {
+          "name": "sam_model",
+          "shape": 7,
+          "type": "SAM_MODEL",
+          "link": null
+        },
+        {
+          "name": "segm_detector",
+          "shape": 7,
+          "type": "SEGM_DETECTOR",
+          "link": null
+        },
+        {
+          "name": "detailer_hook",
+          "shape": 7,
+          "type": "DETAILER_HOOK",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "detailer_pipe",
+          "type": "DETAILER_PIPE",
+          "links": [
+            210
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-impact-pack",
+        "ver": "8.28.2",
+        "Node name for S&R": "EditDetailerPipeSDXL"
+      },
+      "widgets_values": [
+        "(nervous:1.3), shaky smile, wide anxious eyes, biting lip, hesitant expression",
+        "Select the LoRA to add to the text",
+        "Select Wildcard 🟢 Full Cache"
+      ]
+    },
+    {
+      "id": 108,
+      "type": "StringConcatenate",
+      "pos": [
+        2169.9242390301924,
+        -1763.2375013725662
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 57,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 756
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            207
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "nervousness-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 111,
+      "type": "StringConcatenate",
+      "pos": [
+        2654.805577511662,
+        -1755.9824751090202
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 58,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 757
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            231
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "grief-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 116,
+      "type": "StringConcatenate",
+      "pos": [
+        3144.6435101472152,
+        -1753.2228247843143
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 59,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 758
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            245
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "anger-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 123,
+      "type": "StringConcatenate",
+      "pos": [
+        3642.6653575932223,
+        -1751.3865739010755
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 60,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 759
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            259
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "annoyance-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 128,
+      "type": "StringConcatenate",
+      "pos": [
+        2169.924239030191,
+        -1150.9775013725687
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 61,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 760
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            263
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "approval-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 131,
+      "type": "StringConcatenate",
+      "pos": [
+        2654.8055775116613,
+        -1143.7224751090228
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 62,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 761
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            287
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "caring-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 136,
+      "type": "StringConcatenate",
+      "pos": [
+        3144.643510147214,
+        -1140.9628247843168
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 63,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 762
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            301
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "confusion-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 143,
+      "type": "StringConcatenate",
+      "pos": [
+        3642.6653575932205,
+        -1139.126573901078
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 64,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 763
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            315
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "curiosity-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 148,
+      "type": "StringConcatenate",
+      "pos": [
+        2167.9565622625187,
+        -571.2172993523652
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 65,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 764
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            319
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "disgust-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 151,
+      "type": "StringConcatenate",
+      "pos": [
+        2652.837900743988,
+        -563.9622730888193
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 66,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 765
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            343
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "pride-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 156,
+      "type": "StringConcatenate",
+      "pos": [
+        3142.6758333795415,
+        -561.2026227641134
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 67,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 766
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            357
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "remorse-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 163,
+      "type": "StringConcatenate",
+      "pos": [
+        3640.697680825549,
+        -559.3663718808746
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 68,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 767
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            371
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "optimism-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 168,
+      "type": "StringConcatenate",
+      "pos": [
+        2162.041006706961,
+        11.464922869855076
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 69,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 768
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            375
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "excitement-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 171,
+      "type": "StringConcatenate",
+      "pos": [
+        2646.9223451884313,
+        18.71994913340097
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 70,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 769
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            399
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "relief-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 176,
+      "type": "StringConcatenate",
+      "pos": [
+        3136.7602778239834,
+        21.479599458106918
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 71,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 770
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            413
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "realization-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 183,
+      "type": "StringConcatenate",
+      "pos": [
+        3634.782125269992,
+        23.315850341345683
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 72,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 771
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            427
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "disapproval-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 188,
+      "type": "StringConcatenate",
+      "pos": [
+        2159.083228929186,
+        600.0627006476305
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 73,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 772
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            431
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "desire-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 191,
+      "type": "StringConcatenate",
+      "pos": [
+        2643.9645674106555,
+        607.3177269111765
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 74,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 773
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            455
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "disappointment-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 196,
+      "type": "StringConcatenate",
+      "pos": [
+        3133.802500046209,
+        610.0773772358824
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 75,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 774
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            469
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "gratitude-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 203,
+      "type": "StringConcatenate",
+      "pos": [
+        3631.8243474922156,
+        611.9136281191212
+      ],
+      "size": [
+        210,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 76,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_b",
+          "type": "STRING",
+          "widget": {
+            "name": "string_b"
+          },
+          "link": 775
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            483
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "StringConcatenate"
+      },
+      "widgets_values": [
+        "neutral-",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "type": "CheckpointLoaderSimple",
+      "pos": [
+        1.0951266411787266,
+        -1661.890723457442
+      ],
+      "size": [
+        270,
+        98
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            6
+          ]
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            776,
+            777
+          ]
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            2
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.7.0",
+        "Node name for S&R": "CheckpointLoaderSimple"
+      },
+      "widgets_values": [
+        "iniverseMixSFWNSFW_xlV75Real.safetensors"
       ]
     }
   ],
@@ -20626,10 +20626,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.34522712143931417,
+      "scale": 0.3138428376721049,
       "offset": [
-        1227.697025014595,
-        3341.848769205073
+        921.2413064506558,
+        3453.9499501098794
       ]
     },
     "workflowRendererVersion": "LG",
